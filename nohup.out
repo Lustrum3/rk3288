@@ -1,0 +1,287 @@
+
+... A new repo command ( 1.23) is available.
+... You should upgrade soon:
+
+    cp /home/ubuntu/file/rk3288/.repo/repo/repo /usr/bin/repo
+
+From https://github.com/FireflyTeam/ffmpeg
+ * [new branch]      firefly    -> firefly-linux/firefly
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/mpv
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/rkssd
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/rkwifibt
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/kernel
+ * [new branch]      stable-4.4-rk3288-linux -> firefly-linux/stable-4.4-rk3288-linux
+ * [new tag]         release_v1.02 -> release_v1.02
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabihf
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/rk_pcba_test
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/mpp
+ * [new branch]      release    -> firefly-linux/release
+ * [new tag]         release_20170319 -> release_20170319
+ * [new tag]         release_20170412 -> release_20170412
+ * [new tag]         release_20170428 -> release_20170428
+ * [new tag]         release_20170616 -> release_20170616
+ * [new tag]         release_20170811 -> release_20170811
+ * [new tag]         release_20171107 -> release_20171107
+ * [new tag]         release_20171123 -> release_20171123
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/powermanager
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/distro
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/rkbin
+ * [new branch]      29mirror   -> firefly-linux/29mirror
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/buildroot
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/rkscript
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/camera_engine_cifisp
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/QLauncher
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/docs
+ * [new branch]      master     -> firefly-linux/master
+ * [new branch]      px30/firefly -> firefly-linux/px30/firefly
+ * [new branch]      rk3399     -> firefly-linux/rk3399
+ * [new branch]      rk3399pro/firefly -> firefly-linux/rk3399pro/firefly
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/linux-rga
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/libdrm-rockchip
+ * [new branch]      firefly    -> firefly-linux/firefly
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/device-custom
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/demo
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/camera
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/tensorflow
+ * [new branch]      master     -> firefly-linux/master
+ * [new branch]      rk3399pro/firefly -> firefly-linux/rk3399pro/firefly
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/recovery
+ * [new branch]      firefly    -> firefly-linux/firefly
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/tools
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/gstreamer-camera
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/gstreamer-rockchip
+ * [new branch]      master     -> firefly-linux/master
+ * [new tag]         release_20170607 -> release_20170607
+ * [new tag]         release_20170811 -> release_20170811
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/u-boot
+ * [new branch]      stable-4.4-rk3288-linux -> firefly-linux/stable-4.4-rk3288-linux
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/video
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/audioservice
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/gallery
+ * [new branch]      master     -> firefly-linux/master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404 Not Found
+Server does not provide clone.bundle; ignoring.
+From https://github.com/FireflyTeam/music
+ * [new branch]      master     -> firefly-linux/master
+From https://github.com/FireflyTeam/libmali
+ * [new branch]      29mirror   -> firefly-linux/29mirror
+From https://github.com/FireflyTeam/rk-rootfs-build
+ * [new branch]      master     -> firefly-linux/master
+ * [new branch]      rk3399pro/firefly -> firefly-linux/rk3399pro/firefly
+From https://github.com/FireflyTeam/dl
+ * [new branch]      master     -> firefly-linux/master
+ * [new branch]      px30/firefly -> firefly-linux/px30/firefly
+ * [new branch]      rk3399pro/firefly -> firefly-linux/rk3399pro/firefly
+ * [new branch]      rockchip/2018.02-rc3 -> firefly-linux/rockchip/2018.02-rc3
+Checking out files:   7% (20/254)   Checking out files:   8% (21/254)   Checking out files:   9% (23/254)   Checking out files:  10% (26/254)   Checking out files:  10% (27/254)   Checking out files:  11% (28/254)   Checking out files:  11% (30/254)   Checking out files:  12% (31/254)   Checking out files:  13% (34/254)   Checking out files:  14% (36/254)   Checking out files:  15% (39/254)   Checking out files:  16% (41/254)   Checking out files:  16% (43/254)   Checking out files:  17% (44/254)   Checking out files:  18% (46/254)   Checking out files:  18% (47/254)   Checking out files:  19% (49/254)   Checking out files:  20% (51/254)   Checking out files:  21% (54/254)   Checking out files:  21% (55/254)   Checking out files:  22% (56/254)   Checking out files:  22% (58/254)   Checking out files:  23% (59/254)   Checking out files:  23% (60/254)   Checking out files:  24% (61/254)   Checking out files:  25% (64/254)   Checking out files:  26% (67/254)   Checking out files:  27% (69/254)   Checking out files:  28% (72/254)   Checking out files:  28% (73/254)   Checking out files:  29% (74/254)   Checking out files:  30% (77/254)   Checking out files:  31% (79/254)   Checking out files:  32% (82/254)   Checking out files:  33% (84/254)   Checking out files:  33% (86/254)   Checking out files:  34% (87/254)   Checking out files:  35% (89/254)   Checking out files:  36% (92/254)   Checking out files:  37% (94/254)   Checking out files:  38% (97/254)   Checking out files:  39% (100/254)   Checking out files:  40% (102/254)   Checking out files:  41% (105/254)   Checking out files:  42% (107/254)   Checking out files:  43% (110/254)   Checking out files:  44% (112/254)   Checking out files:  45% (115/254)   Checking out files:  46% (117/254)   Checking out files:  47% (120/254)   Checking out files:  48% (122/254)   Checking out files:  49% (125/254)   Checking out files:  50% (127/254)   Checking out files:  51% (130/254)   Checking out files:  52% (133/254)   Checking out files:  53% (135/254)   Checking out files:  54% (138/254)   Checking out files:  55% (140/254)   Checking out files:  56% (143/254)   Checking out files:  57% (145/254)   Checking out files:  57% (147/254)   Checking out files:  58% (148/254)   Checking out files:  59% (150/254)   Checking out files:  60% (153/254)   Checking out files:  61% (155/254)   Checking out files:  62% (158/254)   Checking out files:  63% (161/254)   Checking out files:  64% (163/254)   Checking out files:  65% (166/254)   Checking out files:  66% (168/254)   Checking out files:  67% (171/254)   Checking out files:  68% (173/254)   Checking out files:  69% (176/254)   Checking out files:  70% (178/254)   Checking out files:  71% (181/254)   Checking out files:  72% (183/254)   Checking out files:  73% (186/254)   Checking out files:  74% (188/254)   Checking out files:  75% (191/254)   Checking out files:  76% (194/254)   Checking out files:  77% (196/254)   Checking out files:  78% (199/254)   Checking out files:  79% (201/254)   Checking out files:  80% (204/254)   Checking out files:  81% (206/254)   Checking out files:  82% (209/254)   Checking out files:  83% (211/254)   Checking out files:  84% (214/254)   Checking out files:  85% (216/254)   Checking out files:  86% (219/254)   Checking out files:  87% (221/254)   Checking out files:  88% (224/254)   Checking out files:  89% (227/254)   Checking out files:  90% (229/254)   Checking out files:  91% (232/254)   Checking out files:  92% (234/254)   Checking out files:  92% (235/254)   Checking out files:  93% (237/254)   Checking out files:  94% (239/254)   Checking out files:  95% (242/254)   Checking out files:  96% (244/254)   Checking out files:  97% (247/254)   Checking out files:  98% (249/254)   Checking out files:  99% (252/254)   Checking out files: 100% (254/254)   Checking out files: 100% (254/254), done.
+Checking out files:   1% (128/11764)   Checking out files:   2% (236/11764)   Checking out files:   3% (353/11764)   Checking out files:   4% (471/11764)   Checking out files:   5% (589/11764)   Checking out files:   6% (706/11764)   Checking out files:   7% (824/11764)   Checking out files:   8% (942/11764)   Checking out files:   9% (1059/11764)   Checking out files:  10% (1177/11764)   Checking out files:  11% (1295/11764)   Checking out files:  12% (1412/11764)   Checking out files:  13% (1530/11764)   Checking out files:  14% (1647/11764)   Checking out files:  15% (1765/11764)   Checking out files:  16% (1883/11764)   Checking out files:  17% (2000/11764)   Checking out files:  18% (2118/11764)   Checking out files:  19% (2236/11764)   Checking out files:  20% (2353/11764)   Checking out files:  21% (2471/11764)   Checking out files:  22% (2589/11764)   Checking out files:  23% (2706/11764)   Checking out files:  24% (2824/11764)   Checking out files:  25% (2941/11764)   Checking out files:  26% (3059/11764)   Checking out files:  27% (3177/11764)   Checking out files:  28% (3294/11764)   Checking out files:  29% (3412/11764)   Checking out files:  30% (3530/11764)   Checking out files:  31% (3647/11764)   Checking out files:  32% (3765/11764)   Checking out files:  33% (3883/11764)   Checking out files:  34% (4000/11764)   Checking out files:  35% (4118/11764)   Checking out files:  36% (4236/11764)   Checking out files:  37% (4353/11764)   Checking out files:  38% (4471/11764)   Checking out files:  39% (4588/11764)   Checking out files:  40% (4706/11764)   Checking out files:  41% (4824/11764)   Checking out files:  42% (4941/11764)   Checking out files:  43% (5059/11764)   Checking out files:  44% (5177/11764)   Checking out files:  45% (5294/11764)   Checking out files:  46% (5412/11764)   Checking out files:  47% (5530/11764)   Checking out files:  48% (5647/11764)   Checking out files:  49% (5765/11764)   Checking out files:  50% (5882/11764)   Checking out files:  51% (6000/11764)   Checking out files:  52% (6118/11764)   Checking out files:  53% (6235/11764)   Checking out files:  54% (6353/11764)   Checking out files:  55% (6471/11764)   Checking out files:  56% (6588/11764)   Checking out files:  57% (6706/11764)   Checking out files:  58% (6824/11764)   Checking out files:  58% (6900/11764)   Checking out files:  59% (6941/11764)   Checking out files:  60% (7059/11764)   Checking out files:  61% (7177/11764)   Checking out files:  62% (7294/11764)   Checking out files:  63% (7412/11764)   Checking out files:  64% (7529/11764)   Checking out files:  65% (7647/11764)   Checking out files:  66% (7765/11764)   Checking out files:  67% (7882/11764)   Checking out files:  68% (8000/11764)   Checking out files:  69% (8118/11764)   Checking out files:  70% (8235/11764)   Checking out files:  71% (8353/11764)   Checking out files:  72% (8471/11764)   Checking out files:  73% (8588/11764)   Checking out files:  74% (8706/11764)   Checking out files:  75% (8823/11764)   Checking out files:  76% (8941/11764)   Checking out files:  77% (9059/11764)   Checking out files:  78% (9176/11764)   Checking out files:  79% (9294/11764)   Checking out files:  80% (9412/11764)   Checking out files:  81% (9529/11764)   Checking out files:  82% (9647/11764)   Checking out files:  83% (9765/11764)   Checking out files:  84% (9882/11764)   Checking out files:  85% (10000/11764)   Checking out files:  86% (10118/11764)   Checking out files:  87% (10235/11764)   Checking out files:  88% (10353/11764)   Checking out files:  89% (10470/11764)   Checking out files:  90% (10588/11764)   Checking out files:  91% (10706/11764)   Checking out files:  92% (10823/11764)   Checking out files:  93% (10941/11764)   Checking out files:  94% (11059/11764)   Checking out files:  95% (11176/11764)   Checking out files:  96% (11294/11764)   Checking out files:  97% (11412/11764)   Checking out files:  98% (11529/11764)   Checking out files:  99% (11647/11764)   Checking out files: 100% (11764/11764)   Checking out files: 100% (11764/11764), done.
+Checking out files:  12% (7819/63446)   Checking out files:  13% (8248/63446)   Checking out files:  14% (8883/63446)   Checking out files:  15% (9517/63446)   Checking out files:  16% (10152/63446)   Checking out files:  17% (10786/63446)   Checking out files:  18% (11421/63446)   Checking out files:  19% (12055/63446)   Checking out files:  20% (12690/63446)   Checking out files:  21% (13324/63446)   Checking out files:  22% (13959/63446)   Checking out files:  23% (14593/63446)   Checking out files:  24% (15228/63446)   Checking out files:  24% (15633/63446)   Checking out files:  25% (15862/63446)   Checking out files:  26% (16496/63446)   Checking out files:  27% (17131/63446)   Checking out files:  28% (17765/63446)   Checking out files:  29% (18400/63446)   Checking out files:  30% (19034/63446)   Checking out files:  31% (19669/63446)   Checking out files:  32% (20303/63446)   Checking out files:  33% (20938/63446)   Checking out files:  33% (21469/63446)   Checking out files:  34% (21572/63446)   Checking out files:  35% (22207/63446)   Checking out files:  36% (22841/63446)   Checking out files:  37% (23476/63446)   Checking out files:  38% (24110/63446)   Checking out files:  38% (24701/63446)   Checking out files:  39% (24744/63446)   Checking out files:  40% (25379/63446)   Checking out files:  41% (26013/63446)   Checking out files:  42% (26648/63446)   Checking out files:  43% (27282/63446)   Checking out files:  43% (27633/63446)   Checking out files:  44% (27917/63446)   Checking out files:  45% (28551/63446)   Checking out files:  46% (29186/63446)   Checking out files:  47% (29820/63446)   Checking out files:  48% (30455/63446)   Checking out files:  48% (30795/63446)   Checking out files:  49% (31089/63446)   Checking out files:  50% (31723/63446)   Checking out files:  51% (32358/63446)   Checking out files:  52% (32992/63446)   Checking out files:  53% (33627/63446)   Checking out files:  54% (34261/63446)   Checking out files:  54% (34469/63446)   Checking out files:  55% (34896/63446)   Checking out files:  56% (35530/63446)   Checking out files:  57% (36165/63446)   Checking out files:  57% (36671/63446)   Checking out files:  58% (36799/63446)   Checking out files:  59% (37434/63446)   Checking out files:  60% (38068/63446)   Checking out files:  61% (38703/63446)   Checking out files:  61% (38753/63446)   Checking out files:  62% (39337/63446)   Checking out files:  63% (39971/63446)   Checking out files:  64% (40606/63446)   Checking out files:  65% (41240/63446)   Checking out files:  66% (41875/63446)   Checking out files:  66% (41981/63446)   Checking out files:  67% (42509/63446)   Checking out files:  68% (43144/63446)   Checking out files:  68% (43764/63446)   Checking out files:  69% (43778/63446)   Checking out files:  70% (44413/63446)   Checking out files:  71% (45047/63446)   Checking out files:  72% (45682/63446)   Checking out files:  73% (46316/63446)   Checking out files:  74% (46951/63446)   Checking out files:  74% (47262/63446)   Checking out files:  75% (47585/63446)   Checking out files:  76% (48219/63446)   Checking out files:  77% (48854/63446)   Checking out files:  78% (49488/63446)   Checking out files:  79% (50123/63446)   Checking out files:  79% (50553/63446)   Checking out files:  80% (50757/63446)   Checking out files:  81% (51392/63446)   Checking out files:  82% (52026/63446)   Checking out files:  83% (52661/63446)   Checking out files:  83% (53134/63446)   Checking out files:  84% (53295/63446)   Checking out files:  85% (53930/63446)   Checking out files:  86% (54564/63446)   Checking out files:  87% (55199/63446)   Checking out files:  88% (55833/63446)   Checking out files:  89% (56467/63446)   Checking out files:  90% (57102/63446)   Checking out files:  91% (57736/63446)   Checking out files:  92% (58371/63446)   Checking out files:  93% (59005/63446)   Checking out files:  93% (59486/63446)   Checking out files:  94% (59640/63446)   Checking out files:  95% (60274/63446)   Checking out files:  96% (60909/63446)   Checking out files:  97% (61543/63446)   Checking out files:  98% (62178/63446)   Checking out files:  99% (62812/63446)   Checking out files: 100% (63446/63446)   Checking out files: 100% (63446/63446), done.
+Checking out files:  11% (783/7054)   Checking out files:  11% (817/7054)   Checking out files:  12% (847/7054)   Checking out files:  12% (894/7054)   Checking out files:  13% (918/7054)   Checking out files:  14% (988/7054)   Checking out files:  15% (1059/7054)   Checking out files:  16% (1129/7054)   Checking out files:  17% (1200/7054)   Checking out files:  18% (1270/7054)   Checking out files:  19% (1341/7054)   Checking out files:  20% (1411/7054)   Checking out files:  21% (1482/7054)   Checking out files:  22% (1552/7054)   Checking out files:  23% (1623/7054)   Checking out files:  24% (1693/7054)   Checking out files:  25% (1764/7054)   Checking out files:  26% (1835/7054)   Checking out files:  27% (1905/7054)   Checking out files:  28% (1976/7054)   Checking out files:  29% (2046/7054)   Checking out files:  30% (2117/7054)   Checking out files:  31% (2187/7054)   Checking out files:  32% (2258/7054)   Checking out files:  33% (2328/7054)   Checking out files:  34% (2399/7054)   Checking out files:  35% (2469/7054)   Checking out files:  36% (2540/7054)   Checking out files:  37% (2610/7054)   Checking out files:  38% (2681/7054)   Checking out files:  39% (2752/7054)   Checking out files:  40% (2822/7054)   Checking out files:  41% (2893/7054)   Checking out files:  42% (2963/7054)   Checking out files:  43% (3034/7054)   Checking out files:  44% (3104/7054)   Checking out files:  44% (3124/7054)   Checking out files:  45% (3175/7054)   Checking out files:  46% (3245/7054)   Checking out files:  47% (3316/7054)   Checking out files:  47% (3321/7054)   Checking out files:  48% (3386/7054)   Checking out files:  49% (3457/7054)   Checking out files:  50% (3527/7054)   Checking out files:  51% (3598/7054)   Checking out files:  52% (3669/7054)   Checking out files:  53% (3739/7054)   Checking out files:  54% (3810/7054)   Checking out files:  55% (3880/7054)   Checking out files:  56% (3951/7054)   Checking out files:  57% (4021/7054)   Checking out files:  58% (4092/7054)   Checking out files:  59% (4162/7054)   Checking out files:  60% (4233/7054)   Checking out files:  61% (4303/7054)   Checking out files:  62% (4374/7054)   Checking out files:  63% (4445/7054)   Checking out files:  64% (4515/7054)   Checking out files:  65% (4586/7054)   Checking out files:  66% (4656/7054)   Checking out files:  67% (4727/7054)   Checking out files:  68% (4797/7054)   Checking out files:  69% (4868/7054)   Checking out files:  70% (4938/7054)   Checking out files:  71% (5009/7054)   Checking out files:  72% (5079/7054)   Checking out files:  73% (5150/7054)   Checking out files:  74% (5220/7054)   Checking out files:  74% (5250/7054)   Checking out files:  75% (5291/7054)   Checking out files:  76% (5362/7054)   Checking out files:  77% (5432/7054)   Checking out files:  78% (5503/7054)   Checking out files:  79% (5573/7054)   Checking out files:  80% (5644/7054)   Checking out files:  81% (5714/7054)   Checking out files:  82% (5785/7054)   Checking out files:  83% (5855/7054)   Checking out files:  84% (5926/7054)   Checking out files:  85% (5996/7054)   Checking out files:  86% (6067/7054)   Checking out files:  87% (6137/7054)   Checking out files:  88% (6208/7054)   Checking out files:  89% (6279/7054)   Checking out files:  90% (6349/7054)   Checking out files:  91% (6420/7054)   Checking out files:  92% (6490/7054)   Checking out files:  93% (6561/7054)   Checking out files:  94% (6631/7054)   Checking out files:  95% (6702/7054)   Checking out files:  96% (6772/7054)   Checking out files:  97% (6843/7054)   Checking out files:  98% (6913/7054)   Checking out files:  99% (6984/7054)   Checking out files: 100% (7054/7054)   Checking out files: 100% (7054/7054), done.
+
+Fetching project rkupdate
+Fetching project settings
+Fetching project gst-plugins-rockchip
+Fetching project camera_engine_rkisp
+Fetching project kernel
+Fetching project dl
+Fetching project mpv
+Fetching project alsa-config
+Fetching project bluez-alsa
+Fetching project ffmpeg
+Fetching project gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabihf
+Fetching project rkssd
+Fetching project rkwifibt
+Fetching project buildroot
+Fetching project mpp
+Fetching project rk_pcba_test
+Fetching project powermanager
+Fetching project rkbin
+Fetching project distro
+Fetching project tensorflow
+Fetching project rk-rootfs-build
+Fetching project rkscript
+Fetching project camera_engine_cifisp
+Fetching project QLauncher
+Fetching project docs
+Fetching project linux-rga
+Fetching project libdrm-rockchip
+Fetching project device-custom
+Fetching project demo
+Fetching project camera
+Fetching project tools
+Fetching project recovery
+Fetching project libmali
+Fetching project gstreamer-camera
+Fetching project gstreamer-rockchip
+Fetching project u-boot
+Fetching project video
+Fetching project audioservice
+Fetching project gallery
+Fetching project music
